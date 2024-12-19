@@ -1,1 +1,5 @@
-/* Name, Date */
+td, th {
+    border: 5px solid red;
+    text-align: left; 
+    padding: 7px 
+}
